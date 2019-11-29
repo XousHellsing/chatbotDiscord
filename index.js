@@ -1,3 +1,8 @@
+/*
+Ricardo Arèvalo Rodrìguez
+ICO 7
+CTA 1626550
+*/
 const {Client,RichEmbed}=require('discord.js');
 const client=new Client();
 client.on('ready',()=>{
